@@ -10,7 +10,7 @@ package com.neux.examples.junitexample;
 public class Test2 {
 
 	public String hello(){
-		return "Hello World";
+		return "Hello World!";
 	}
 
 }

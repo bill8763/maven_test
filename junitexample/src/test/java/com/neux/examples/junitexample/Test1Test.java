@@ -36,7 +36,7 @@ public class Test1Test
     	Test1 test1 = new Test1();
     	Test2 test2 = new Test2();
     	// expeceted, actural
-        assertEquals( "Hello Word", test1.hello());
-        assertEquals( "Hello Word", test2.hello());
+        assertEquals( "Hello World!", test1.hello());
+        assertEquals( "Hello World!", test2.hello());
     }
 }
